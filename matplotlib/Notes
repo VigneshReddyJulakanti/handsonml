@@ -1,0 +1,7 @@
+
+'''
+#This is not used when plotting from a dataframe as there is a method to plot from the data frames which is better than this , i.e dataframe_name.plot(kind="scatter",x="",y="")
+# plt.scatter(full["ls"],full["gdp"])
+# plt.xlabel("ls")
+# plt.ylabel("gdp")
+'''
